@@ -5,3 +5,4 @@ Welcome to my Python learning repository! This repository documents my daily Pyt
 ## Progress
 
 - ✅ Day 1 –  Treasure Island project
+- ✅ DAy 2 –  Rock Paper Scissor
