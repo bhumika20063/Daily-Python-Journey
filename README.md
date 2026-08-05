@@ -11,5 +11,8 @@ Welcome to my Python learning repository! This repository documents my daily Pyt
 - ✅ Day 5 –  Password Generator
 - ✅ DAy 6 –  Guess The Number Game
 - ✅ Day 7 –  Higher or Lower Game
+- ✅ Day 7 –  Coffee Machine Project
+
+
 
 
